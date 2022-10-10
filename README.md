@@ -59,5 +59,4 @@ $
 ```
 
 ## Authors :black_nib:
-* **Daniel Shibabaw** <[ShagizMan](https://github.com/ShagizMan)>
-* **Olyad Temesgen** <[OL-YAD](https://github.com/OL-YAD)>
+* **David Mboko** <[Meekdavid](https://github.com/Meekdavid)>
