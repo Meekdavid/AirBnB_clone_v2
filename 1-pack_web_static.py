@@ -1,4 +1,4 @@
-Efficient efficient efficient efficient 
+Efficient efficient efficient efficient
 #!/usr/bin/python3
 # Fabfile to generates a .tgz archive from the contents of web_static.
 import os.path
