@@ -1,3 +1,4 @@
+Efficient effective 
 #!/usr/bin/env bash
 # Sets up a web server for deployment of web_static.
 
