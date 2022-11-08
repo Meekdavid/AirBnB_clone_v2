@@ -1,4 +1,4 @@
-#!/usr/bin/python3#!/usr/bin/pytho
+#!/usr/bin/python3#!/usr/bin/pyth
 #!/usr/bin/python3
 # Fabfile to create and distribute an archive to a web server.
 import os.path
