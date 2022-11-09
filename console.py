@@ -1,4 +1,4 @@
-Efficiently eff
+Efficiently ef
 #!/usr/bin/python3
 """ Defines entry point of the command interpreter."""
 import cmd
