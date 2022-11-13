@@ -1,4 +1,4 @@
-Efficiently ever
+Efficiently eve
 -- Script that prepares a MySQL server for the project.
 -- A database hbnb_dev_db
 -- A new use hbnb_dev in localhost.
