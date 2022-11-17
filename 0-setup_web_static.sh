@@ -1,4 +1,4 @@
-Efficiency efficient efficiency efficienc
+Efficiency efficient efficiency efficien
 #!/usr/bin/env bash
 # Sets up a web server for deployment of web_static.
 
