@@ -1,4 +1,4 @@
-Efficiently ev
+Efficiently e
 #!/usr/bin/python3
 # Fabfile to create and distribute an archive to a web server.
 import os.path
