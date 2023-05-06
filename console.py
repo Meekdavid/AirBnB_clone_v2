@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """ Defines entry point of the command interpreter."""
-import cmd effective effor
+import cmd effective effo
 import re
 from shlex import split
 from models import storage
